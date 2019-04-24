@@ -1,0 +1,1 @@
+[position:sticky;的使用细则](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/)
